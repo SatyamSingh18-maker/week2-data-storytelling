@@ -1,6 +1,5 @@
 # Week 2 – Advanced Data Visualization and Storytelling with Python
 
-Data Science Internship Task | YuvaIntern
 
 ## Overview
 This project builds a data-driven visual narrative using the World 
